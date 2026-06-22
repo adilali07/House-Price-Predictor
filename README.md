@@ -19,8 +19,8 @@ A machine learning project to predict house prices using Linear Regression and R
 
 ## Project Structure
 ```
-HomeLens/
-├── code.py       # main script
+House Price Predictor/
+├── house_price.py,       # main script
 ├── house.csv            # dataset
 └── README.md
 ```
