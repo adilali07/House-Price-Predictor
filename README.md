@@ -20,7 +20,7 @@ A machine learning project to predict house prices using Linear Regression and R
 ## Project Structure
 ```
 House Price Predictor/
-├── house_price.py,       # main script
+├── house_price.py       # main script
 ├── house.csv            # dataset
 └── README.md
 ```
